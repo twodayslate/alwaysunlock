@@ -1,10 +1,10 @@
 Package: com.twodayslate.alwaysunlock
 Name: alwaysunlock
 Depends: mobilesubstrate
-Version: 0.0.2-1
 Architecture: iphoneos-arm
 Description: Unlock your device with any passcode!
 Maintainer: twodayslate
 Author: twodayslate
 Section: Tweaks
-Installed-Size: 72
+Version: 0.0.3-3
+Installed-Size: 188
